@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/curriculum-personal-web/static/css/main.bab0b925.chunk.css",
+    "main.js": "/curriculum-personal-web/static/js/main.8259740c.chunk.js",
+    "main.js.map": "/curriculum-personal-web/static/js/main.8259740c.chunk.js.map",
+    "runtime-main.js": "/curriculum-personal-web/static/js/runtime-main.0800c434.js",
+    "runtime-main.js.map": "/curriculum-personal-web/static/js/runtime-main.0800c434.js.map",
+    "static/js/2.91a1c73f.chunk.js": "/curriculum-personal-web/static/js/2.91a1c73f.chunk.js",
+    "static/js/2.91a1c73f.chunk.js.map": "/curriculum-personal-web/static/js/2.91a1c73f.chunk.js.map",
+    "index.html": "/curriculum-personal-web/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/curriculum-personal-web/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.91a1c73f.chunk.js.LICENSE.txt": "/curriculum-personal-web/static/js/2.91a1c73f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0800c434.js",
+    "static/js/2.91a1c73f.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.8259740c.chunk.js"
+  ]
+}
